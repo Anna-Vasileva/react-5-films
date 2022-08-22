@@ -1,0 +1,24 @@
+.form {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.form-btn {
+  margin-left: 10px;
+
+  min-width: 90px;
+  padding: 10px 15px;
+  border: 1px solid var(--main-white);
+  border-radius: 35px;
+
+  font-size: 12px;
+  color: var(--main-white);
+  background-color: var(--main-color);
+  text-align: center;
+  cursor: pointer;
+}
+.form-btn:hover {
+  color: var(--main-color);
+  background-color: var(--main-white);
+  border: 1px solid var(--main-color);
+}

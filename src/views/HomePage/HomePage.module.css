@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+}
+.home-list {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.home-item {
+  font-size: 12px;
+}
+.home-title {
+  color: var(--main-black);
+}
+.home-title:hover {
+  color: var(--main-color);
+}

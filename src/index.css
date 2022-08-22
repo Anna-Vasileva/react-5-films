@@ -1,0 +1,35 @@
+:root {
+  --main-color: #da811d;
+
+  --main-white: white;
+  --main-black: #212121;
+}
+body {
+  margin: 0;
+  background-color: #ffffff;
+  color: var(--main-black);
+  font-family: "Roboto", Arial, Tahoma, sans-serif;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul {
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
